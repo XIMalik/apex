@@ -36,7 +36,7 @@ const Footer = () => {
         <nav>
           <div className="flex flex-row items-center justify-center gap-6 my-10">
             <a
-              href="https://wa.me/8120953669"
+              href="https://wa.me/00000000000"
               target="_blank"
               data-aos="fade-down" data-aos-delay="200"
               rel="noopener noreferrer"
@@ -45,11 +45,11 @@ const Footer = () => {
               <FaWhatsapp className="scale-[1.5]" />
             </a>
 
-            <a data-aos="fade-down" data-aos-delay="400" href="tel:+2348120953669" className="rounded-full h-fit w-fit border-[0.5px] border-[#afc723] p-4 cursor-pointernpm">
+            <a data-aos="fade-down" data-aos-delay="400" href="tel:" className="rounded-full h-fit w-fit border-[0.5px] border-[#afc723] p-4 cursor-pointernpm">
               <FiPhone className='scale-[1.5]' />
             </a>
 
-            <a data-aos="fade-down" data-aos-delay="600" href="mailto:tawesu@gmail.com" className="rounded-full h-fit w-fit border-[0.5px] border-[#afc723] p-4 cursor-pointer">
+            <a data-aos="fade-down" data-aos-delay="600" href="mailto:" className="rounded-full h-fit w-fit border-[0.5px] border-[#afc723] p-4 cursor-pointer">
               <MdOutlineEmail className='scale-[1.5]' />
             </a>
           </div>
